@@ -1,24 +1,24 @@
-# Kaneki Theme for Vencord
+# Tema Kaneki para Vencord
 
-## Description
-The Kaneki Theme is a dark, moody theme for Vencord, inspired by the character Kaneki from Tokyo Ghoul. This theme captures the essence of Kaneki's character through a carefully chosen color palette and design elements that reflect his journey and personality.
+## Descrição
+O Tema Kaneki é um tema escuro e atmosférico para o Vencord, inspirado no personagem Kaneki de Tokyo Ghoul. Este tema captura a essência do personagem através de uma paleta de cores cuidadosamente escolhida e elementos de design que refletem sua jornada e personalidade.
 
-## Installation
-1. Download the Kaneki Theme files.
-2. Place the `theme.css` file in your Vencord themes directory.
-3. Open Vencord and navigate to the themes section.
-4. Activate the Kaneki Theme from the list of available themes.
+## Instalação
+1. Baixe os arquivos do Tema Kaneki.
+2. Coloque os arquivos `Kaneki dark.css` no diretório de temas do Vencord.
+3. Abra o Vencord e navegue até a seção de temas.
+4. Ative o Tema Kaneki na lista de temas disponíveis.
 
-## Usage
-Once the theme is activated, you will notice a transformation in the overall aesthetic of your Vencord interface. The theme features:
-- A dark background that enhances readability and reduces eye strain.
-- Accents of red and black that resonate with Kaneki's character design.
-- Custom styles for various UI elements to ensure a cohesive look.
+## Uso
+Depois de ativar o tema, você notará uma transformação na estética geral da interface do Vencord. O tema apresenta:
+- Um fundo escuro que melhora a legibilidade e reduz o cansaço visual.
+- Tons de vermelho e preto que ressoam com o design do personagem Kaneki.
+- Estilos personalizados para vários elementos da interface para garantir uma aparência coesa.
 
-## Design Choices
-The color palette for the Kaneki Theme includes:
-- **Background Color**: A deep black to create a stark contrast with the text and UI elements.
-- **Accent Colors**: Shades of red to symbolize Kaneki's inner turmoil and strength.
-- **Text Colors**: Light grays and whites for readability against the dark background.
+## Escolhas de Design
+A paleta de cores do Tema Kaneki inclui:
+- **Cor de Fundo**: Um preto profundo para criar um contraste marcante com o texto e os elementos da interface.
+- **Cores de Destaque**: Tons de vermelho para simbolizar o conflito interno e a força de Kaneki.
+- **Cores do Texto**: Cinzas claros e brancos para garantir a legibilidade contra o fundo escuro.
 
-This theme aims to provide an immersive experience for fans of Tokyo Ghoul while maintaining usability and aesthetic appeal. Enjoy your time in Vencord with the Kaneki Theme!
+Este tema tem como objetivo proporcionar uma experiência imersiva para os fãs de Tokyo Ghoul, mantendo a usabilidade e o apelo estético. Aproveite seu tempo no Vencord com o Tema Kaneki!

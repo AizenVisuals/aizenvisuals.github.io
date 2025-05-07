@@ -2,13 +2,14 @@
 /**
  * @name Kaneki Theme
  * @version 1.0.0
- * @description A dark, moody theme for Vencord inspired by Kaneki from Tokyo Ghoul.
+ * @description Um tema baseado no Kaneki de Tokyo Ghoul.
+ * @author AizenVisuals
  */
 
 /* IMPORT CSS */
-@import url("https://raw.githubusercontent.com/sayuritnk/BloodWingsTheme/refs/heads/main/dark.css");
-@import url("https://raw.githubusercontent.com/sayuritnk/BloodWingsTheme/refs/heads/main/main.css");
-@import url("https://raw.githubusercontent.com/sayuritnk/BloodWingsTheme/refs/heads/main/betterdiscord.css");
+@import url("https://aizenvisuals.github.io/Dark.css");
+@import url("https://aizenvisuals.github.io/main.css");
+@import url("https://aizenvisuals.github.io/Vencord.css");
 
 /* SETTINGS */
 :root {
@@ -31,7 +32,7 @@
   --background-shading-percent: 100%;
   --background-image: url(https://i.imgur.com/yw5g70l.png); /* Background image */
   --background-attachment: fixed;
-  --background-filter: brightness(0.25) saturate(1);
+  --background-filter: brightness(1) saturate(1);
 
   /* FONTS */
   --main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
