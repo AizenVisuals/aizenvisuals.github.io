@@ -1,0 +1,86 @@
+/* filepath: c:\Users\oiakt\Desktop\Codes\Dark Theme Kaneki\kaneki-theme\theme.css */
+/* filepath: kaneki-theme/theme.css */
+/**
+ * @name Kaneki Theme
+ * @version 1.0.0
+ * @description A dark, moody theme for Vencord inspired by Kaneki from Tokyo Ghoul.
+ */
+
+/* IMPORT CSS */
+@import url("https://username.github.io/repository-name/dark.css");
+@import url("https://raw.githubusercontent.com/sayuritnk/BloodWingsTheme/refs/heads/main/main.css");
+@import url("https://raw.githubusercontent.com/sayuritnk/BloodWingsTheme/refs/heads/main/betterdiscord.css");
+
+/* SETTINGS */
+:root {
+  /* ACCENT COLORS */
+  --darkplus-bg: #1c1c1c; /* Dark background */
+  --darkplus-bg2: #2a2a2a; /* Secondary background */
+  --darkplus-sec: #e74c3c; /* Kaneki's red accent */
+  --darkplus-links: #e74c3c; /* Color for links */
+
+  /* Chamadas e Botões */
+  --call-background: rgba(0, 0, 0, 0.75); /* Darkened background for calls */
+  --call-text: #ffffff; /* Text color for calls */
+  --call-hover: #e74c3c; /* Hover effect for calls */
+  --call-button-bg: rgba(0, 0, 0, 0.5); /* Background for call buttons */
+  --call-button-hover: #e74c3c; /* Hover effect for call buttons */
+  --call-mic-button-color: #43b581; /* Microphone button color */
+  --call-cam-button-color: #f39c12; /* Camera button color */
+
+  /* APP BACKGROUND */
+  --background-shading-percent: 100%;
+  --background-image: url(https://i.imgur.com/yw5g70l.png); /* Background image */
+  --background-attachment: fixed;
+  --background-filter: brightness(1) saturate(1);
+
+  /* FONTS */
+  --main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
+}
+
+/* THEME SPECIFIC SHADING */
+:root {
+  /* LIGHT THEME */
+  --background-shading: rgba(252, 252, 252, 0.3);
+  --card-shading: rgba(252, 252, 252, 0.3);
+  
+  /* DARK THEME */
+  --background-shading: rgba(0, 0, 0, 0.85);
+  --card-shading: rgba(0, 0, 0, 0.6);
+  --popout-shading: rgba(0, 0, 0, 0.8);
+  --modal-shading: rgba(0, 0, 0, 0.7);
+  --input-shading: rgba(255, 255, 255, 0.1);
+  --normal-text: #ffffff;
+  --muted-text: #b2b2b2;
+}
+
+.wrapper-1BJsBx[aria-label="Início"] svg path {
+  display: none !important;
+}
+
+/* CHAMADAS DE VÍDEO */
+.is-call .call-background {
+  background-color: var(--call-background) !important;
+}
+
+.is-call .call-text {
+  color: var(--call-text) !important;
+}
+
+.is-call .call-button {
+  background-color: var(--call-button-bg) !important;
+  color: var(--call-text) !important;
+}
+
+.is-call .call-button:hover {
+  background-color: var(--call-button-hover) !important;
+}
+
+.is-call .call-mic-button {
+  background-color: var(--call-mic-button-color) !important;
+}
+
+.is-call .call-cam-button {
+  background-color: var(--call-cam-button-color) !important;
+}
